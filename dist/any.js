@@ -7,4 +7,3 @@ vehicle = "car";
 function getCar(docs) {
     console.log(docs);
 }
-//# sourceMappingURL=variables.js.map
