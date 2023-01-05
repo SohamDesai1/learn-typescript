@@ -1,8 +1,8 @@
 "use strict";
 let student = {
-    name: "John",
+    name: "Soham",
     age: 20,
-    leave: (reason) => {
+    leave(reason) {
         console.log(reason);
-    }
+    },
 };
